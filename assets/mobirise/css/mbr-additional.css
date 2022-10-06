@@ -1284,28 +1284,3 @@ a {
   line-height: 55px;
   padding: .6rem;
 }
-.cid-tjiR0xDAsv {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-tjiR0xDAsv .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tjiR0xDAsv .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-tjiR0xDAsv .video-wrapper iframe {
-  width: 100%;
-}
-.cid-tjiR0xDAsv .mbr-section-title,
-.cid-tjiR0xDAsv .mbr-section-subtitle,
-.cid-tjiR0xDAsv .mbr-text {
-  text-align: center;
-}
